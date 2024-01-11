@@ -9,7 +9,7 @@ Am a college student in BIT MESRA K23 CSE department
 * 🌍  I'm based in Ranchi
 * ✉️  You can contact me at [pratyushmunda8877@gmail.com](mailto:pratyushmunda8877@gmail.com)
 * 🧠  I'm learning TensorFlow 2.0
-* ⚡  am a fast learner, current learning how dogs walk
+* ⚡  am a fast learner, currently am learning how dogs walk
 
 ### Skills
 
